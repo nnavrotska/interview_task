@@ -4,3 +4,4 @@ venv/
 allure-report/
 .pytest_cache/
 .pyc
+__pycache__/
