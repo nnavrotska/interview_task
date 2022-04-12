@@ -1,0 +1,6 @@
+.idea/
+venv/
+.pytest_cache
+allure-report/
+.pytest_cache/
+.pyc
